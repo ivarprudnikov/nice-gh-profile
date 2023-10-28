@@ -1,5 +1,7 @@
 I want my GitHub profile not to look empty, hence the [script](./dump-annual-commits.sh) that creates multiple commits for the 12 months following a given date.
 
+![github commits in profile](./gh-commits-preview.png)
+
 ## Requirements
 
 - [git](https://git-scm.com/)
